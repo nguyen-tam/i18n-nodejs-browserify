@@ -1,7 +1,7 @@
 class I18n {
-	constructor(lang, filePath) {
+	constructor(lang, locale) {
 		this._lang = lang;
-		this._locale = require(filePath);
+		this._locale = locale;
 	}
 	//Get the rule for pluralization
 	//http://localization-guide.readthedocs.org/en/latest/l10n/pluralforms.html 
