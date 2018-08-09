@@ -1,6 +1,6 @@
 {
-  "name": "i18n-nodejs",
-  "version": "2.0.0",
+  "name": "i18n-nodejs-browserify",
+  "version": "1.0.0",
   "description": "Internationalization localization package",
   "main": "index.js",
   "scripts": {
@@ -11,16 +11,16 @@
     "localization",
     "i18n",
     "translation",
-    "i18n-nodejs",
+    "browserify",
     "plural"
   ],
   "author": "Eslam Mahmoud <contact@eslam.me> (http://eslam.me)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/eslam-mahmoud/i18n-nodejs.git"
+    "url": "git://github.com/nguyen-tam/i18n-nodejs-browserify.git"
   },
   "bugs": {
-    "url": "https://github.com/eslam-mahmoud/i18n-nodejs/issues"
+    "url": "https://github.com/nguyen-tam/i18n-nodejs-browserify/issues"
   }
 }
